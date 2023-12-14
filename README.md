@@ -1,4 +1,5 @@
 ### 项目概述：
+### tag: Spark   星火大模型   llm   gpt  translate  翻译  
 #### 本项目依托于科大讯飞星火大模型，构建了一个多风格的翻译助手，支持将英文翻译为中文，古风风格或者琼瑶风格等等
 *本项目使用了streamlit框架来构建前端，展示一些标语、输入框和按钮。后端的大模型是星火大模型V3.0版本。*
 ![translate_proj](https://github.com/xkliu-only/translate_in_many_style/assets/134579904/0b00ad06-40ed-4562-94ef-7a3e68e04347)
